@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1055952199952",
+    "firebase_url": "https://alarmeringen-aa1e0.firebaseio.com",
+    "project_id": "alarmeringen-aa1e0",
+    "storage_bucket": "alarmeringen-aa1e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055952199952:android:ec94883f096b970d",
+        "android_client_info": {
+          "package_name": "com.example.rens.rensvanderveldt_pset6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055952199952-i56m1q0suohubmacjp7iialgfcb55m18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBvkJteYO65P6wPaVKkCa8t-ttYieboZ8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Rensvanderveldt-pset6</string>
+    <string name="title_activity_alarmeringen_activity">alarmeringen_activity</string>
+    <string name="welcome_string">Welkom in deze handige alarmeringen app, zie wat er bij jou in de buurt speelt door jouw locaties door te geven en hier meldingen over binnen te krijgen. Je kunt kiezen uit ambulances, politie en brandweer meldingen. Blijf op de hoogte!</string>
+    <string name="logintext">Log in als u al een account heeft:</string>
+</resources>
